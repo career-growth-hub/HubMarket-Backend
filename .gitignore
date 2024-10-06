@@ -1,0 +1,22 @@
+# Ignore build files
+/target/
+/out/
+
+# Ignore OS generated files
+*.DS_Store
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Ignore the src directory
+/src/
+
+# Ignore compiled class files (if using Java)
+*.class
+
+# Ignore sensitive information
+.env
+
+# VSCode
+.vscode/
